@@ -1,4 +1,5 @@
 # Pharmacy prediction app
+NOTE : this contains the results of machine learning predictions and was created for DEMO purposes , you'll find no business logic here.
 
 This app is a front end for a BI / Data mining project.
 The application involves 3 tabs :
